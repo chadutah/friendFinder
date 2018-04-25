@@ -1,0 +1,27 @@
+.jumbotron {
+	background: rgb(37, 1, 79);
+	opacity: 0.8;
+	text-align: center;
+	color: aliceblue;
+}
+
+body {
+	background: aliceblue;
+	background-image: url('background.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+hr {
+	border-color: inherit;
+	    margin: 1em 0;
+}
+.footer {
+	margin-top: 40%;
+	color: crimson;
+}
+
+#resultsModal img {
+	overflow: hidden;
+	width: 500px;
+}
